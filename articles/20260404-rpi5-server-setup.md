@@ -3,7 +3,7 @@ title: "Raspberry Pi 5を自宅サーバーにする完全ガイド"
 emoji: "🍓"
 type: "tech"
 topics: ["raspberrypi", "docker", "selfhosted", "linux", "server"]
-published: false
+published: true
 ---
 
 > **TL;DR**
