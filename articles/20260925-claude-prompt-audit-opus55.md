@@ -1,5 +1,5 @@
 ---
-title: "/claude-api prompt-audit で CLAUDE.md を棚卸ししたら、Claude Opus 5.5 化で外れた設定がぞろぞろ出てきた"
+title: "/claude-api prompt-audit で棚卸ししたら、Claude Opus 5.5 化で外れた設定がぞろぞろ出てきた"
 emoji: "🔍"
 type: "tech"
 topics: ["claudecode", "claude", "llm", "prompt", "ai"]
