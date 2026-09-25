@@ -1,5 +1,5 @@
 ---
-title: "/claude-api prompt-audit を動いている自律エージェントに当てたら、かなり削れた"
+title: "/claude-api prompt-audit で CLAUDE.md を棚卸ししたら、Opus 5.5 化で外れた設定がぞろぞろ出てきた"
 emoji: "🔍"
 type: "tech"
 topics: ["claudecode", "claude", "llm", "prompt", "ai"]
