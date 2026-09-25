@@ -3,7 +3,7 @@ title: "/claude-api prompt-audit を動いている自律エージェントに�
 emoji: "🔍"
 type: "tech"
 topics: ["claudecode", "claude", "llm", "prompt", "ai"]
-published: false
+published: true
 ---
 
 > **TL;DR**
